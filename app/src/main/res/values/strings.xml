@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FitForFun</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="emailEingabe">Email Addresse</string>
+    <string name="passwortEingabe">Passwort</string>
+    <string name="button_login">Login</string>
+    <string name="button_registrieren">Registrieren</string>
+</resources>

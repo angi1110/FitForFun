@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "389761242754",
+    "firebase_url": "https://fitforfun-24.firebaseio.com",
+    "project_id": "fitforfun-24",
+    "storage_bucket": "fitforfun-24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389761242754:android:5a10e587a9e22943",
+        "android_client_info": {
+          "package_name": "de.schauhuber.philipp.testdatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389761242754-8fk6tffsdaem5fj9huplahu7i5egmq66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQCiGBKKX4rKOYGcHDcdhxj3QvwAvdd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389761242754:android:ccdb8a613401cac7",
+        "android_client_info": {
+          "package_name": "de.schauhuber.philipp.fitforfun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389761242754-8fk6tffsdaem5fj9huplahu7i5egmq66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQCiGBKKX4rKOYGcHDcdhxj3QvwAvdd4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
